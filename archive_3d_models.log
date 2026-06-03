@@ -1,0 +1,89 @@
+03-10 22:31:25 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 238:Plugin executed on: 'win32'
+03-10 22:31:25 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 239:Plugin executed with python version: '3.11.5 (main, Nov  6 2025, 07:48:09) [MSC v.1944 64 bit (AMD64)]'
+03-10 22:31:25 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 240:KiCad build version: 9.0.7
+03-10 22:31:25 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 241:Plugin version: 1.0.15
+03-10 22:31:25 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 246:Screen sizes: [wx.Size(1920, 1200), wx.Size(3840, 2160)]
+03-10 22:31:25 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 253:Dialog size: wx.Size(213, 81)
+03-10 22:31:25 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 255:Char size: 25
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 30:Starting to archive 3D models
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C6
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/CAPACITOR DISCO CERAMICO/C104_Disc_D5mm_P3mm.STEP
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/CAPACITOR DISCO CERAMICO/C104_Disc_D5mm_P3mm.STEP
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: L1
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/LED 5MM/LED 5mm Red.step
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/LED 5MM/LED 5mm Red.step
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: L2
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/LED 5MM/LED 5mm Blue.step
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/LED 5MM/LED 5mm Blue.step
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R3
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/RESISTORES/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 10K.STEP
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/RESISTORES/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 10K.STEP
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: TACTIL_SWITCH1
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.wrl
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.wrl
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: REGULADOR_3V3
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/REGULADOR DE TENSAO/AMS1117_3V3_axisY.step
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/REGULADOR DE TENSAO/AMS1117_3V3_axisY.step
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: BARRA_DE_PINO1
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C1
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/CAPACITOR/10uF 50V electr 5 x11mm -P.diameter 2.5mm.stp
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/CAPACITOR/10uF 50V electr 5 x11mm -P.diameter 2.5mm.stp
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: CONECTOR1
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Connector_BarrelJack.3dshapes/BarrelJack_Horizontal.wrl
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Connector_BarrelJack.3dshapes/BarrelJack_Horizontal.wrl
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: MICROCONTROLADOR1
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/ATMEGA328P-PU/atmega328.STEP
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/ATMEGA328P-PU/atmega328.STEP
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: G***
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: BARRA_DE_PINO2
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/PINHEAD FEMALE 2/6-Pin Header - Female - 2.54mm.step
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/PINHEAD FEMALE 2/6-Pin Header - Female - 2.54mm.step
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/CONVERSOR FTDI232/Waveshare_FT232RL_USB-C.step
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/CONVERSOR FTDI232/Waveshare_FT232RL_USB-C.step
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: A2
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/PINHEAD FEMALE 2/10-Pin Header - Female - 2.54mm.step
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/PINHEAD FEMALE 2/10-Pin Header - Female - 2.54mm.step
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/PINHEAD FEMALE 2/8-Pin Header - Female - 2.54mm.step
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/PINHEAD FEMALE 2/8-Pin Header - Female - 2.54mm.step
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/PINHEAD FEMALE 2/6-Pin Header - Female - 2.54mm.step
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/PINHEAD FEMALE 2/6-Pin Header - Female - 2.54mm.step
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/PINHEAD FEMALE 2/8-Pin Header - Female - 2.54mm.step
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/PINHEAD FEMALE 2/8-Pin Header - Female - 2.54mm.step
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: G***
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: 16MHZ1
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/CRISTAL OSCILADOR/Cristal 16MHz.STEP
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/CRISTAL OSCILADOR/Cristal 16MHz.STEP
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C2
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/CAPACITOR/10uF 50V electr 5 x11mm -P.diameter 2.5mm.stp
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/CAPACITOR/10uF 50V electr 5 x11mm -P.diameter 2.5mm.stp
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C7
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/CAPACITOR DISCO CERAMICO/C104_Disc_D5mm_P3mm.STEP
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/CAPACITOR DISCO CERAMICO/C104_Disc_D5mm_P3mm.STEP
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: REGULADOR_5V1
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/REGULADOR DE TENSAO/AMS1117_5V_axisY.step
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/REGULADOR DE TENSAO/AMS1117_5V_axisY.step
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: TP1
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D1
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/DIODO RETIFICADOR/Diodo 1N4007.STEP
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/DIODO RETIFICADOR/Diodo 1N4007.STEP
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R1
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/RESISTORES/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 470R.STEP
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/RESISTORES/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 470R.STEP
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C5
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/CAPACITOR DISCO CERAMICO/C22_D_3.5mm_P3mm.STEP
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/CAPACITOR DISCO CERAMICO/C22_D_3.5mm_P3mm.STEP
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C4
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/CAPACITOR DISCO CERAMICO/C22_D_3.5mm_P3mm.STEP
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/CAPACITOR DISCO CERAMICO/C22_D_3.5mm_P3mm.STEP
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: G***
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: G***
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C3
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/CAPACITOR/10uF 50V electr 5 x11mm -P.diameter 2.5mm.stp
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/CAPACITOR/10uF 50V electr 5 x11mm -P.diameter 2.5mm.stp
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: REF**
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R2
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/RESISTORES/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 220R.STEP
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: C:/Users/zat/OneDrive/DOC/KiCad/9.0/3dmodels/RESISTORES/Resistor Axial 0.5W - Pitch 12.7mm (500mil) - Value 220R.STEP
+03-10 22:31:26 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: REF**
