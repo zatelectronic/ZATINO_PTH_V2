@@ -33,7 +33,6 @@
   - [Como Usar](#como-usar)
     - [Abrindo no KiCad](#abrindo-no-kicad)
     - [Programando a Placa](#programando-a-placa)
-    - [Configuração PlatformIO](#configuração-platformio)
     - [Dica de Montagem](#dica-de-montagem)
   - [Sobre](#sobre)
 
@@ -232,17 +231,6 @@ ZATINO_PTH_V2/
 3. Abra o **Arduino IDE** ou **PlatformIO**
 4. Selecione a placa: **Arduino Uno**
 5. Selecione a porta COM correta e faça o upload do sketch
-
-### Configuração PlatformIO
-
-```ini
-[env:zatino_pth_v2]
-platform = atmelavr
-board = uno
-framework = arduino
-upload_port = COMx        ; ajuste para a sua porta
-monitor_speed = 115200
-```
 
 ### Dica de Montagem
 
