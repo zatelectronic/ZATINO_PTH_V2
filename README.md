@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="imagem_1.png" alt="ZATINO PTH V2 — Vista Superior da PCB" width="800"/>
+<img src="imagem_1.png" alt="ZATINO V2 PTH — Vista Superior da PCB" width="800"/>
 
 # ZATINO V2 PTH
 
 
-**Placa de desenvolvimento compatível com Arduino Uno, com componentes através-furo (PTH), programação USB-C via módulo Waveshare FT232RL**
+**Placa de desenvolvimento compatível com Arduino Uno, com componentes através-furo (PTH), programação USB-C via módulo FT232RL**
 
 [![KiCad](https://img.shields.io/badge/KiCad-9.0-blue?logo=kicad&logoColor=white)](https://www.kicad.org/)
 [![MCU](https://img.shields.io/badge/MCU-ATmega328P--PU-red)](https://www.microchip.com/en-us/product/atmega328p)
 [![Licença](https://img.shields.io/badge/Licen%C3%A7a-Open%20Hardware-green)](https://www.oshwa.org/)
 [![Versão](https://img.shields.io/badge/Vers%C3%A3o-V2-orange)](.)
-[![ZAT Electronic](https://img.shields.io/badge/Feito%20por-ZAT%20Electronic-black)](.)
+[![ZAT ELECTRONIC](https://img.shields.io/badge/Feito%20por-ZAT%20Electronic-black)](.)
 
 </div>
 
@@ -41,9 +41,9 @@
 
 ## Visão Geral
 
-**ZATINO PTH V2** é uma placa de desenvolvimento personalizada, compatível com Arduino Uno, projetada pela **ZAT Electronic** utilizando o **KiCad 9**. Diferente da versão SMD, esta placa utiliza exclusivamente **componentes através-furo (PTH — Pin Through Hole)**, tornando-a ideal para montagem manual, prototipagem, aprendizado e laboratórios maker.
+**ZATINO V2 PTH** é uma placa de desenvolvimento personalizada, compatível com Arduino Uno, projetada pela **ZAT ELECTRONIC** utilizando o **KICAD 10**. Diferente da versão SMD, esta placa utiliza exclusivamente **componentes através-furo (PTH — Pin Through Hole)**, tornando-a ideal para montagem manual, prototipagem, aprendizado e laboratórios maker.
 
-O microcontrolador principal é o clássico **ATmega328P-PU** no encapsulamento **DIP-28**, encaixado diretamente na placa. A programação é feita via **USB-C** através do módulo **Waveshare FT232RL**, conectado a um conector fêmea de 6 pinos na borda da placa.
+O microcontrolador principal é o clássico **ATmega328P-PU** no encapsulamento **DIP-28**, encaixado diretamente na placa. A programação é feita via **USB-C** através do módulo **FT232RL**, conectado a um conector fêmea de 6 pinos na borda da placa.
 
 > 💡 Esta placa mantém **total compatibilidade de pinos com o Arduino Uno R3**, permitindo o uso de shields e bibliotecas existentes sem qualquer modificação.
 
@@ -69,7 +69,7 @@ O microcontrolador principal é o clássico **ATmega328P-PU** no encapsulamento 
 
 ## Diferenças em relação ao ZATINO SMD V2
 
-| Característica | ZATINO PTH V2 | ZATINO SMD V2 |
+| Característica | ZATINO V2 PTH | ZATINO SMD V2 |
 |----------------|--------------|--------------|
 | **Microcontrolador** | ATmega328P-PU (DIP-28) | ATmega328PB-AU (TQFP-32) |
 | **Tipo de componentes** | Através-furo (PTH) | Montagem superficial (SMD) |
@@ -85,7 +85,7 @@ O microcontrolador principal é o clássico **ATmega328P-PU** no encapsulamento 
 ## Funcionalidades
 
 - ✅ **ATmega328P-PU** — encapsulamento DIP-28 PTH, 100% compatível com Arduino Uno
-- ✅ **Programação via USB-C** pelo módulo Waveshare FT232RL (conector plugável)
+- ✅ **Programação via USB-C** pelo módulo FT232RL (conector plugável)
 - ✅ **Duplo regulador de tensão** — 5V (AMS1117-5.0) e 3,3V (AMS1117-3.3)
 - ✅ **Proteção contra inversão de polaridade** via diodo 1N4007 PTH na entrada de alimentação
 - ✅ **Oscilador a cristal de 16 MHz** (encapsulamento PTH HC-49)
@@ -94,7 +94,7 @@ O microcontrolador principal é o clássico **ATmega328P-PU** no encapsulamento 
 - ✅ **Botão de reset tátil** (THT 6×6×5 mm)
 - ✅ **Entrada de alimentação Barrel Jack (P4)** com chave integrada
 - ✅ **Todos os componentes PTH** — ideal para soldagem manual e aprendizado
-- ✅ **Projetado com KiCad 9** — EDA totalmente open source
+- ✅ **Projetado com KICAD 10** — EDA totalmente open source
 - ✅ **Logotipo Open Source Hardware** na PCB
 
 ---
@@ -109,14 +109,14 @@ O microcontrolador principal é o clássico **ATmega328P-PU** no encapsulamento 
 | **Tensão de Entrada** | 7–12V (Barrel Jack P4) |
 | **Saída 3,3V** | AMS1117-3.3 (até 800mA) |
 | **Regulador 5V** | AMS1117-5.0 |
-| **Interface USB** | USB-C via módulo Waveshare FT232RL |
+| **Interface USB** | USB-C via módulo FT232RL |
 | **Pinos Digital I/O** | 14 (D0–D13), PWM em D3, D5, D6, D9, D10, D11 |
 | **Entradas Analógicas** | 6 (A0–A5) |
 | **Memória Flash** | 32 KB (ATmega328P) |
 | **SRAM** | 2 KB |
 | **EEPROM** | 1 KB |
 | **Tipo de Montagem** | PTH — Através-furo |
-| **Ferramenta de Projeto** | KiCad 9.0 |
+| **Ferramenta de Projeto** | KICAD 10.0 |
 | **Versão da PCB** | V2 — 2025 |
 | **Fator de Forma** | Compatível com Arduino Uno R3 |
 
@@ -130,7 +130,7 @@ O microcontrolador principal é o clássico **ATmega328P-PU** no encapsulamento 
 | REGULADOR_5V1 | Regulador de Tensão 5V | AMS1117-5.0 | SOT-223 |
 | REGULADOR_3V3 | Regulador de Tensão 3,3V | AMS1117-3.3 | SOT-223 |
 | 16MHZ1 | Oscilador a Cristal | 16 MHz | HC-49 PTH |
-| BARRA_DE_PINO2 | Conector FTDI | Waveshare FT232RL USB-C | Fêmea 6 pinos 2,54mm |
+| BARRA_DE_PINO2 | Conector FTDI | FT232RL USB-C | Fêmea 6 pinos 2,54mm |
 | A2 | Referência de Pinout | Arduino Uno R3 | — |
 | D1 | Diodo Retificador | 1N4007 | PTH Axial |
 | L1 | LED de Status | LED 5mm Vermelho | PTH 5mm |
@@ -192,8 +192,8 @@ A placa expõe o **pinout completo do Arduino Uno R3**:
 ```
 ZATINO_PTH_V2/
 ├── ZATINO_PTH_V2.kicad_pro       # Arquivo de projeto KiCad
-├── ZATINO_PTH_V2.kicad_sch       # Esquemático (KiCad 9)
-├── ZATINO_PTH_V2.kicad_pcb       # Layout da PCB (KiCad 9)
+├── ZATINO_PTH_V2.kicad_sch       # Esquemático (KICAD 10)
+├── ZATINO_PTH_V2.kicad_pcb       # Layout da PCB (KICAD 10)
 ├── ZATINO_PTH_V2.kicad_prl       # Configurações locais do projeto
 ├── packages3D/                   # Modelos 3D arquivados (STEP / WRL)
 │   ├── atmega328.STEP
@@ -218,7 +218,7 @@ ZATINO_PTH_V2/
 
 ### Abrindo no KiCad
 
-1. Instale o **KiCad 9.0** ou superior
+1. Instale o **KICAD 10.0** ou superior
 2. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/ZATINO_PTH_V2.git
@@ -227,7 +227,7 @@ ZATINO_PTH_V2/
 
 ### Programando a Placa
 
-1. Encaixe o **módulo Waveshare FT232RL USB-C** no conector de 6 pinos (`BARRA_DE_PINO2`)
+1. Encaixe o **módulo FT232RL USB-C** no conector de 6 pinos (`BARRA_DE_PINO2`)
 2. Conecte via USB-C ao computador
 3. Abra o **Arduino IDE** ou **PlatformIO**
 4. Selecione a placa: **Arduino Uno**
@@ -254,9 +254,9 @@ monitor_speed = 115200
 
 <div align="center">
 
-Projetado com ❤️ por **ZAT Electronic**
+Projetado por **ZAT ELECTRONIC**
 
-*ZATINO PTH V2 — 2025*
+*ZATINO V2 PTH — 2025*
 
 [![KiCad](https://img.shields.io/badge/Projetado%20com-KiCad-blue)](https://www.kicad.org/)
 [![Open Source Hardware](https://img.shields.io/badge/Open%20Source-Hardware-brightgreen)](https://www.oshwa.org/)
