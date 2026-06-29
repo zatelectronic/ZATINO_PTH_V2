@@ -4,6 +4,7 @@
 
 # ZATINO PTH V2
 
+
 **Placa de desenvolvimento compatível com Arduino Uno, com componentes através-furo (PTH), programação USB-C via módulo Waveshare FT232RL**
 
 [![KiCad](https://img.shields.io/badge/KiCad-9.0-blue?logo=kicad&logoColor=white)](https://www.kicad.org/)
@@ -18,17 +19,23 @@
 
 ## 📋 Índice
 
-- [Visão Geral](#visão-geral)
-- [Renders 3D](#renders-3d)
-- [Diferenças em relação ao ZATINO SMD V2](#diferenças-em-relação-ao-zatino-smd-v2)
-- [Funcionalidades](#funcionalidades)
-- [Especificações Técnicas](#especificações-técnicas)
-- [Lista de Materiais](#lista-de-materiais)
-- [Arquitetura de Alimentação](#arquitetura-de-alimentação)
-- [Compatibilidade de Pinos](#compatibilidade-de-pinos)
-- [Estrutura do Repositório](#estrutura-do-repositório)
-- [Como Usar](#como-usar)
-- [Sobre](#sobre)
+- [ZATINO PTH V2](#zatino-pth-v2)
+  - [📋 Índice](#-índice)
+  - [Visão Geral](#visão-geral)
+  - [Renders 3D](#renders-3d)
+  - [Diferenças em relação ao ZATINO SMD V2](#diferenças-em-relação-ao-zatino-smd-v2)
+  - [Funcionalidades](#funcionalidades)
+  - [Especificações Técnicas](#especificações-técnicas)
+  - [Lista de Materiais](#lista-de-materiais)
+  - [Arquitetura de Alimentação](#arquitetura-de-alimentação)
+  - [Compatibilidade de Pinos](#compatibilidade-de-pinos)
+  - [Estrutura do Repositório](#estrutura-do-repositório)
+  - [Como Usar](#como-usar)
+    - [Abrindo no KiCad](#abrindo-no-kicad)
+    - [Programando a Placa](#programando-a-placa)
+    - [Configuração PlatformIO](#configuração-platformio)
+    - [Dica de Montagem](#dica-de-montagem)
+  - [Sobre](#sobre)
 
 ---
 
