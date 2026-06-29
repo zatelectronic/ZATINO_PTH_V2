@@ -2,7 +2,7 @@
 
 <img src="imagem_1.png" alt="ZATINO PTH V2 — Vista Superior da PCB" width="800"/>
 
-# ZATINO PTH V2
+# ZATINO V2 PTH
 
 
 **Placa de desenvolvimento compatível com Arduino Uno, com componentes através-furo (PTH), programação USB-C via módulo Waveshare FT232RL**
@@ -19,7 +19,7 @@
 
 ## 📋 Índice
 
-- [ZATINO PTH V2](#zatino-pth-v2)
+- [ZATINO V2 PTH](#zatino-v2-pth)
   - [📋 Índice](#-índice)
   - [Visão Geral](#visão-geral)
   - [Renders 3D](#renders-3d)
