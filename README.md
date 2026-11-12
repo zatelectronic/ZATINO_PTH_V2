@@ -7,7 +7,7 @@
 
 **Placa de desenvolvimento compatível com Arduino Uno, com componentes através-furo (PTH), programação USB-C via módulo FT232RL**
 
-[![KiCad](https://img.shields.io/badge/KiCad-9.0-blue?logo=kicad&logoColor=white)](https://www.kicad.org/)
+[![KiCad](https://img.shields.io/badge/KiCad-10.0-blue?logo=kicad&logoColor=white)](https://www.kicad.org/)
 [![MCU](https://img.shields.io/badge/MCU-ATmega328P--PU-red)](https://www.microchip.com/en-us/product/atmega328p)
 [![Licença](https://img.shields.io/badge/Licen%C3%A7a-Open%20Hardware-green)](https://www.oshwa.org/)
 [![Versão](https://img.shields.io/badge/Vers%C3%A3o-V2-orange)](.)
