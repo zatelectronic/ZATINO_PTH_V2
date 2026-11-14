@@ -4941,17 +4941,6 @@
 			(uuid "f10fc6a1-70c6-4752-b49f-22f0f29780d5")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/packages3D/Waveshare_FT232RL_USB-C.step"
-			(offset
-				(xyz -3.5 -6.35 21.5)
-			)
-			(scale
-				(xyz 0.7 1 1)
-			)
-			(rotate
-				(xyz -180 90 -0)
-			)
-		)
 		(model "${KIPRJMOD}/packages3D/6-Pin Header - Female - 2.54mm.step"
 			(offset
 				(xyz 0 -12.7 0)
@@ -4961,6 +4950,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -90)
+			)
+		)
+		(model "${KIPRJMOD}/packages3D/Waveshare_FT232RL_USB-C.step"
+			(offset
+				(xyz -3.5 -6.35 21.5)
+			)
+			(scale
+				(xyz 0.7 1 1)
+			)
+			(rotate
+				(xyz -180 90 -0)
 			)
 		)
 	)
@@ -6019,20 +6019,9 @@
 			(uuid "2569648c-ff36-5d36-8c18-960b975acb9e")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/packages3D/PinSocket_1x06_P2.54mm_Vertical.step"
+		(model "${KIPRJMOD}/packages3D/PinSocket_1x10_P2.54mm_Vertical.step"
 			(offset
-				(xyz 16.5327 -24.1093 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 -90)
-			)
-		)
-		(model "${KIPRJMOD}/packages3D/PinSocket_1x08_P2.54mm_Vertical.step"
-			(offset
-				(xyz -6.32731 -24.1093 0)
+				(xyz -15.4713 24.1507 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -6052,9 +6041,20 @@
 				(xyz 0 0 -90)
 			)
 		)
-		(model "${KIPRJMOD}/packages3D/PinSocket_1x10_P2.54mm_Vertical.step"
+		(model "${KIPRJMOD}/packages3D/PinSocket_1x08_P2.54mm_Vertical.step"
 			(offset
-				(xyz -15.4713 24.1507 0)
+				(xyz -6.32731 -24.1093 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 -90)
+			)
+		)
+		(model "${KIPRJMOD}/packages3D/PinSocket_1x06_P2.54mm_Vertical.step"
+			(offset
+				(xyz 16.5327 -24.1093 0)
 			)
 			(scale
 				(xyz 1 1 1)
