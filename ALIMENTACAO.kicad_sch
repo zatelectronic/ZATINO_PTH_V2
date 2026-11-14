@@ -2550,25 +2550,25 @@
 		(dnp no)
 		(uuid "4265b792-ac04-49d8-805e-ce20315ec31a")
 		(property "Reference" "LED2"
-			(at 166.878 60.452 90)
+			(at 164.465 62.865 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED_5mm_BLUE"
-			(at 164.084 62.738 90)
+			(at 164.465 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "ZAT_LED:LED_D5.0mm_Blue"
@@ -2767,25 +2767,23 @@
 		(dnp no)
 		(uuid "62612535-2376-4172-9f22-575a1d04bb18")
 		(property "Reference" "LED1"
-			(at 143.002 60.706 0)
+			(at 149.225 70.485 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Value" "LED_5mm_RED"
-			(at 145.796 57.912 0)
+			(at 149.225 72.39 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" "ZAT_LED:LED_D5.0mm_Red"
@@ -4072,25 +4070,23 @@
 		(fields_autoplaced yes)
 		(uuid "f5fb5430-0af4-48a3-afdb-6b8eae138c5b")
 		(property "Reference" "TP1"
-			(at 91.44 75.6919 0)
+			(at 88.9 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Value" "TP_3x3mm"
-			(at 91.44 78.2319 0)
+			(at 88.9 80.645 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_3.0x3.0mm"

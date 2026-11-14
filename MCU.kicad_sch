@@ -5142,14 +5142,13 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 179.07 113.0299 90)
+			(at 181.61 111.125 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -5221,14 +5220,13 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 200.66 138.4299 90)
+			(at 198.12 140.97 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" ""
@@ -5300,14 +5298,13 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 208.28 80.0099 90)
+			(at 205.74 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" ""
@@ -5368,23 +5365,25 @@
 		(dnp no)
 		(uuid "4b4be4d5-16d5-4198-96d3-9b2fa708b3bb")
 		(property "Reference" "C1"
-			(at 187.96 162.306 90)
+			(at 182.88 165.1 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "22pF"
-			(at 187.706 160.02 90)
+			(at 182.88 167.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" "ZAT_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm_22pF"
@@ -5469,25 +5468,25 @@
 		(dnp no)
 		(uuid "56c03fa6-3feb-49e9-9fbe-4e95bdd9cc59")
 		(property "Reference" "J1"
-			(at 192.532 68.834 0)
+			(at 194.31 74.295 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "HDR_1x02_2.54mm"
-			(at 193.294 71.374 0)
+			(at 194.31 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
@@ -5573,25 +5572,25 @@
 		(dnp no)
 		(uuid "77bdfe3d-1a29-441c-bbca-a09387d2b1ab")
 		(property "Reference" "Y1"
-			(at 207.772 169.164 90)
+			(at 200.66 169.545 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "16MHz"
-			(at 208.534 171.704 90)
+			(at 200.66 171.45 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "ZAT_Crystal:Crystal_HC18-U_Vertical_16MHz"
@@ -5676,23 +5675,25 @@
 		(dnp no)
 		(uuid "8a706c89-df43-4eae-b5ab-ca25b3585292")
 		(property "Reference" "C2"
-			(at 188.214 180.34 90)
+			(at 182.88 173.355 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "22pF"
-			(at 187.96 178.054 90)
+			(at 182.88 175.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" "ZAT_Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm_22pF"
@@ -5855,7 +5856,7 @@
 		(dnp no)
 		(uuid "a4c91f95-2f04-4124-b0c8-5b264d2fcc79")
 		(property "Reference" "R1"
-			(at 189.23 107.95 90)
+			(at 189.23 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5865,7 +5866,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 189.23 110.49 90)
+			(at 189.23 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6034,23 +6035,25 @@
 		(dnp no)
 		(uuid "d3236cb6-68b7-4761-9118-2a123c5ce8db")
 		(property "Reference" "C3"
-			(at 198.12 84.074 90)
+			(at 193.04 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "100nF"
-			(at 198.12 86.36 90)
+			(at 193.04 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" "ZAT_Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm_100nF"
@@ -6326,14 +6329,13 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 175.26 170.1801 90)
+			(at 177.8 172.72 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" ""

@@ -3403,14 +3403,13 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 200.66 49.5299 90)
+			(at 203.2 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" ""
@@ -3481,7 +3480,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 48.9165 59.5766 90)
+			(at 52.705 59.69 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3560,14 +3559,14 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 48.26 62.2299 90)
+			(at 48.895 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
@@ -4301,7 +4300,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 49.9254 66.0177 90)
+			(at 50.165 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4379,7 +4378,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 140.97 113.03 90)
+			(at 140.335 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4447,23 +4446,25 @@
 		(dnp no)
 		(uuid "c5138d80-2121-4b7a-9f62-eb03c788a6af")
 		(property "Reference" "J3"
-			(at 208.28 43.434 0)
+			(at 214.63 46.355 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Value" "SKT_1x06_2.54mm"
-			(at 208.28 46.228 0)
+			(at 214.63 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "ZAT_Connector:PinSocket_1x06_P2.54mm_Vertical_FT232RL_USB-C"
@@ -4560,23 +4561,25 @@
 		(dnp no)
 		(uuid "cd1921a6-5de6-4427-a975-f9af34121947")
 		(property "Reference" "C7"
-			(at 207.01 71.374 90)
+			(at 212.09 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Value" "100nF"
-			(at 207.01 73.66 90)
+			(at 212.09 68.58 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "ZAT_Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm_100nF"
@@ -4673,14 +4676,14 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 200.66 54.6099 90)
+			(at 201.295 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
